@@ -362,7 +362,7 @@
                                 <!-- Project Details Go Here -->
                                 <h2>On Stage</h2>
                                 <p class="item-intro text-muted">Performances in different occasions</p>
-                                <img class="img-responsive img-centered" src="img/portfolio/stage1.JPG" alt="">
+                                <img class="img-responsive img-centered" src="img/portfolio/stage1.jpg" alt="">
                                 <img class="img-responsive img-centered" src="img/portfolio/stage2.jpg" alt="">
                                 <img class="img-responsive img-centered" src="img/portfolio/stage3.jpg" alt="">
                                 <img class="img-responsive img-centered" src="img/portfolio/stage4.jpg" alt="">
