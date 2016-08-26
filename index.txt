@@ -530,11 +530,15 @@
                         <div class="col-lg-8 col-lg-offset-2">
                             <div class="modal-body">
                                 <!-- Project Details Go Here -->
-                                <h2>Project Name</h2>
-                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                <img class="img-responsive img-centered" src="img/portfolio/dreams-preview.png" alt="">
-                                <p>Dreams is a free PSD web template built by <a href="https://www.behance.net/MathavanJaya">Mathavan Jaya</a>. Dreams is a modern one page web template designed for almost any purpose. It¡¦s a beautiful template that¡¦s designed with the Bootstrap framework in mind.</p>
-                                <p>You can download the PSD template in this portfolio sample item at <a href="http://freebiesxpress.com/gallery/dreams-free-one-page-web-template/">FreebiesXpress.com</a>.</p>
+                                <h2>Editing</h2>
+                                <p class="item-intro text-muted">Event program/booklet for TAANY</p>
+                                <img class="img-responsive img-centered" src="img/portfolio/taany_banquet_program.jpg" alt="">
+                                <img class="img-responsive img-centered" src="img/portfolio/228.jpg" alt="">
+                                <img class="img-responsive img-centered" src="img/portfolio/tacec_announcement.jpg" alt="">
+                                <img class="img-responsive img-centered" src="img/portfolio/events.jpg" alt="">
+                                <img class="img-responsive img-centered" src="img/portfolio/tacec_profile.jpg" alt="">
+                                <img class="img-responsive img-centered" src="img/portfolio/tang.jpg" alt="">
+                                <p>From top to bottom: the 47th Annual TAANY Banquet program; 228 Commemoration program; TACEC2016 yearbook content(letters from chairman and coordinator; TAANY event promoting pages; profiles for the Conference personnel; Taiwanese American Next Generation program).</p>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close </button>
                             </div>
                         </div>
