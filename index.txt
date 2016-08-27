@@ -170,11 +170,11 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/dreams.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/screen.jpg" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Editing</h4>
-                        <p class="text-muted">Event Program/Booklet</p>
+                        <p class="text-muted">Event Programs/Booklet</p>
                     </div>
                 </div>
             </div>
@@ -282,10 +282,9 @@
                         </li>
                         <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <h4>Be Part of
-                                    <br>My
-                                    <br>Story !
-                                </h4>
+                                    <br>
+                                    <br><h2>?</h2>
+                                   
                             </div>
                         </li>
                     </ul>
@@ -531,7 +530,7 @@
                             <div class="modal-body">
                                 <!-- Project Details Go Here -->
                                 <h2>Editing</h2>
-                                <p class="item-intro text-muted">Event program/booklet for TAANY</p>
+                                <p class="item-intro text-muted">Event programs/booklet for TAANY</p>
                                 <img class="img-responsive img-centered" src="img/portfolio/taany_banquet_program.jpg" alt="">
                                 <img class="img-responsive img-centered" src="img/portfolio/228.jpg" alt="">
                                 <img class="img-responsive img-centered" src="img/portfolio/tacec_announcement.jpg" alt="">
