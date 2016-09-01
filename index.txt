@@ -114,7 +114,7 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/startup-framework.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/keyboard.jpg" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Credentials</h4>
@@ -128,7 +128,7 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/treehouse.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/stn.png" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Shoot That Note</h4>
@@ -217,7 +217,7 @@
                                     <h4 class="subheading">The start of Shoot That Note</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Inspired by an adult piano student, Ying-Ying started the research and learning for creating a mobile app to help music learning more with ease and fun.</p>
+                                    <p class="text-muted">Inspired by an adult piano student, Ying-Ying started the prototype to create a mobile app to help music learning with more ease and fun.</p>
                                 </div>
                             </div>
                         </li>
@@ -382,7 +382,7 @@
                                 <img class="img-responsive img-centered" src="img/portfolio/stage1.jpg" alt="">
                                 <img class="img-responsive img-centered" src="img/portfolio/stage2.jpg" alt="">
                                 <img class="img-responsive img-centered" src="img/portfolio/stage3.jpg" alt="">
-                                <img class="img-responsive img-centered" src="img/portfolio/stage4.jpg" alt="">
+                                <img class="img-responsive img-centered" src="img/portfolio/stage4.jpg" alt=""><br><br>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close </button>
                             </div>
                         </div>
@@ -408,17 +408,20 @@
                             <div class="modal-body">
                                 <h2>Credentials</h2>
                                 <p class="item-intro text-muted">Teaching Achievements</p>
-                                <img class="img-responsive img-centered" src="img/portfolio/baseball.png" alt="">
-                                <img class="img-responsive img-centered" src="img/portfolio/taiwan_day.png" alt="">
-                                <img class="img-responsive img-centered" src="img/portfolio/poster_cluster.png" alt="">
-                                <img class="img-responsive img-centered" src="img/portfolio/poster_cluster.png" alt="">
-                                <img class="img-responsive img-centered" src="img/portfolio/poster_cluster.png" alt="">
-                                <img class="img-responsive img-centered" src="img/portfolio/poster_cluster.png" alt="">
-                                <img class="img-responsive img-centered" src="img/portfolio/poster_cluster.png" alt="">
-                                <img class="img-responsive img-centered" src="img/portfolio/poster_cluster.png" alt="">
-
-                                <p><a href="http://designmodo.com/startup/?u=787">Startup Framework</a> is a website builder for professionals. Startup Framework contains components and complex blocks (PSD+HTML Bootstrap themes and templates) which can easily be integrated into almost any design. All of these components are made in the same style, and can easily be integrated into projects, allowing you to create hundreds of solutions for your future projects.</p>
-                                <p>You can preview Startup Framework <a href="http://designmodo.com/startup/?u=787">here</a>.</p>
+                                  <h4>Student Testimonials</h4>
+                                     <p class="large text-muted">Thank you for all your patience and kindness teaching me.  Every time I go to piano lessons now, I have a lot more fun than I used to, and enjoy the music a lot more now.
+                                     <br>~Tiffany H~</p>
+                                     <p class="large text-muted">I have now spent a year under the guidance with Miss Chen and it was pleasure learning from her.  When I had trouble with a song, she would explain what the mistake is that I'm making and help me correct it.  She has a nice teaching style and I enjoyed learning not just piano, but at the same time music theory. She provided me with a chance to play a duet song with another one of her student in a concert. The experience was just fun!
+                                     <br>~Christopher C~</p>
+                                     <p class="large text-muted">Thank you, above all, for instilling in me an enjoyment and appreciation for music; for the imagery in music and the story that it tells.  I've enjoyed this heightened sensitivity to sound.  Your lessons really opened my appreciation for the flute, in all of its registers.
+                                     <br>~Wendy C~</p>
+                                     <p class="large text-muted">Ms. Ying-Ying Chen is my most favorite teacher because she has a great amount of patience, a wide scope of knowledge in expressing and describing music, and a great sense of enthusiasm in teaching and supporting her students.
+                                     <br>~Nicole C~</p><br><br>
+                                  <h4>Musical Arrangements</h4>
+                                    <img class="img-responsive img-centered" src="img/portfolio/scores.jpg" alt=""><br><br>
+                                  <h4>Students Achievements</h4>
+                                    <img class="img-responsive img-centered" src="img/portfolio/abrsm.jpg" alt="">
+                                    <img class="img-responsive img-centered" src="img/portfolio/nyssma.jpg" alt=""><br><br>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close </button>
                             </div>
                         </div>
@@ -445,9 +448,9 @@
                                 <!-- Project Details Go Here -->
                                 <h2>Shoot That Note</h2>
                                 <p class="item-intro text-muted">by YYFun LLC</p>
-                                <img class="img-responsive img-centered" src="img/portfolio/treehouse-preview.png" alt="">
-                                <img class="img-responsive img-centered" src="img/portfolio/treehouse-preview1.png" alt="">
-                                <img class="img-responsive img-centered" src="img/portfolio/treehouse-preview2.png" alt="">
+                                <img class="img-responsive img-centered" src="img/portfolio/stn1.png" alt="">
+                                <img class="img-responsive img-centered" src="img/portfolio/stn2.png" alt="">
+                                <img class="img-responsive img-centered" src="img/portfolio/stn3.png" alt="">
                                 <p>Shoot That Note is designed to help music learners with better and faster sight-reading ability.  Download it NOW on the App Store or visit <a href="http://www.yuppyfun.com" target="_blank">www.yuppyfun.com</a> for more information.</p>
                                 <p><center><a href="https://appsto.re/us/CTTe9.i" target="_blank"><img src="img/portfolio/App_Store_Badge.svg" width="135" height="40"></a></center></p>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close </button>
@@ -506,19 +509,19 @@
                                 <h2>Graphic Design</h2>
                                 <p class="item-intro text-muted">Artworks created for TAANY</p>
                                 <h4>Poster design for a Meet & Greet of a Taiwanese baseball hitter</h4>
-                                <img class="img-responsive img-centered" src="img/portfolio/baseball.png" alt="">
+                                <img class="img-responsive img-centered" src="img/portfolio/baseball.png" alt=""><br><br>
                                 <h4>Poster desgin for Mets Taiwan Day 2016</h4>
-                                <img class="img-responsive img-centered" src="img/portfolio/taiwan_day.png" alt="">
+                                <img class="img-responsive img-centered" src="img/portfolio/taiwan_day.png" alt=""><br><br>
                                 <h4>Poster design for "Wansei Back Home" movie screening</h4>
-                                <img class="img-responsive img-centered" src="img/portfolio/wansei_poster.jpg" alt="">
+                                <img class="img-responsive img-centered" src="img/portfolio/wansei_poster.jpg" alt=""><br><br>
                                 <h4>Ticket design for "Wansei Bakc Home" movie screening</h4>
-                                <img class="img-responsive img-centered" src="img/portfolio/wansei_tix.jpg" alt="">
+                                <img class="img-responsive img-centered" src="img/portfolio/wansei_tix.jpg" alt=""><br><br>
                                 <h4>Cover design for the TACEC2016 yearbook</h4>
-                                <img class="img-responsive img-centered" src="img/portfolio/tacec_book_cover.jpg" alt="">
+                                <img class="img-responsive img-centered" src="img/portfolio/tacec_book_cover.jpg" alt=""><br><br>
                                 <h4>Poster design for "A Letter to Future Children" movie screening</h4>
-                                <img class="img-responsive img-centered" src="img/portfolio/poster_letter_children.bmp" alt="">
+                                <img class="img-responsive img-centered" src="img/portfolio/poster_letter_children.bmp" alt=""><br><br>
                                 <h4>Ticket design for "A Letter to Future Children" movie screening</h4>
-                                <img class="img-responsive img-centered" src="img/portfolio/tix_letter_children.bmp" alt="">
+                                <img class="img-responsive img-centered" src="img/portfolio/tix_letter_children.bmp" alt=""><br><br>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close </button>
                             </div>
                         </div>
@@ -546,16 +549,15 @@
                                 <h2>Editing</h2>
                                 <p class="item-intro text-muted">Event programs/booklet for TAANY</p>
                                 <h4>47th Annual TAANY Banquet program</h4>                                
-                                <img class="img-responsive img-centered" src="img/portfolio/taany_banquet_program.jpg" alt="">
+                                <img class="img-responsive img-centered" src="img/portfolio/taany_banquet_program.jpg" alt=""><br><br>
                                 <h4>228 Commemoration program</h4>
-                                <img class="img-responsive img-centered" src="img/portfolio/228.jpg" alt="">
+                                <img class="img-responsive img-centered" src="img/portfolio/228.jpg" alt=""><br><br>
                                 <h4>TACEC2016 yearbook letters from chairman and coordinator</h4>
-                                <img class="img-responsive img-centered" src="img/portfolio/tacec_announcement.jpg" alt="">
+                                <img class="img-responsive img-centered" src="img/portfolio/tacec_announcement.jpg" alt=""><br><br>
                                 <h4>TACEC2016 yearbook TAANY event promoting pages</h4>
-                                <img class="img-responsive img-centered" src="img/portfolio/events.jpg" alt="">
+                                <img class="img-responsive img-centered" src="img/portfolio/events.jpg" alt=""><br><br>
                                 <h4>TACEC yearbook profiles for the keynote speakers & guests</h4>
-                                <img class="img-responsive img-centered" src="img/portfolio/tacec_profile.jpg" alt="">
-                                <p></p>
+                                <img class="img-responsive img-centered" src="img/portfolio/tacec_profile.jpg" alt=""><br><br>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close </button>
                             </div>
                         </div>
