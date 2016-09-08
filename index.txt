@@ -478,11 +478,13 @@
                             <div class="modal-body">
                                 <!-- Project Details Go Here -->
                                 <h2>Event Planning</h2>
-                                <p class="item-intro text-muted">Sample Registration Forms for TAANY Events</p>
+                                <p class="item-intro text-muted">Sample Registration Forms Created for TAANY Events</p>
                                 <h4>Registration form for Summer BBQ Event</h4>
                                 <img class="img-responsive img-centered" src="img/portfolio/form_bbq.jpg" alt=""><br><br>
                                 <h4>Registration Form for Volunteers Recruit for a Performance</h4>
                                 <img class="img-responsive img-centered" src="img/portfolio/form_africa.jpg" alt=""><br><br>
+                                <h4>Registration Form for an Online Order</h4>
+                                <img class="img-responsive img-centered" src="img/portfolio/form_order.jpg" alt=""><br><br>
                                 <h4>Registration Form for a Movie Screening</h4>
                                 <img class="img-responsive img-centered" src="img/portfolio/form_children.jpg" alt=""><br><br>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close </button>
