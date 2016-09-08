@@ -513,6 +513,8 @@
                                 <!-- Project Details Go Here -->
                                 <h2>Graphic Design</h2>
                                 <p class="item-intro text-muted">Artworks created for TAANY</p>
+                                <h4>Poster design for BBQ & Wine-Tasting Tour</h4>
+                                <img class="img-responsive img-centered" src="img/portfolio/bbq_wine.png" alt=""><br><br>
                                 <h4>Poster design for a Meet & Greet of a Taiwanese baseball hitter</h4>
                                 <img class="img-responsive img-centered" src="img/portfolio/baseball.png" alt=""><br><br>
                                 <h4>Poster desgin for Mets Taiwan Day 2016</h4>
