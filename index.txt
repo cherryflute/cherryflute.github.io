@@ -379,10 +379,22 @@
                                 <!-- Project Details Go Here -->
                                 <h2>On Stage</h2>
                                 <p class="item-intro text-muted">Performances during different occasions</p>
-                                <img class="img-responsive img-centered" src="img/portfolio/stage1.jpg" alt="">
-                                <img class="img-responsive img-centered" src="img/portfolio/stage2.jpg" alt="">
-                                <img class="img-responsive img-centered" src="img/portfolio/stage3.jpg" alt="">
-                                <img class="img-responsive img-centered" src="img/portfolio/stage4.jpg" alt=""><br><br>
+                                 <h4>70th Anniversary 228 Commemoration Concert 2017, Taiwan Center, New York</h4>
+                                  <img class="img-responsive img-centered" src="img/portfolio/228_2017.jpg" alt="">
+                                 <h4>SYSU 2017 Alumni Spring Reunion</h4>
+                                  <img class="img-responsive img-centered" src="img/portfolio/sysu2017.jpg" alt="">
+                                 <h4>Lovecraft NYC</h4>
+                                  <img class="img-responsive img-centered" src="img/portfolio/lovecraftnyc.jpg" alt="">
+                                 <h4>Dr. Wen-Cheng Chen Memorial Concert, East Stroudsburg University, PA</h4>
+                                  <img class="img-responsive img-centered" src="img/portfolio/tacec2016.jpg" alt="">
+                                 <h4>Student Recital Faculty Program at Queens College</h4>
+                                  <img class="img-responsive img-centered" src="img/portfolio/stage1.jpg" alt="">
+                                 <h4>New Taipei City Banquet Hall</h4>
+                                  <img class="img-responsive img-centered" src="img/portfolio/stage2.jpg" alt="">
+                                 <h4>Cafe 1967, Taipei</h4>                                 
+                                  <img class="img-responsive img-centered" src="img/portfolio/stage3.jpg" alt="">
+                                 <h4>228 Commemoration Concert 2016, Taiwan Center, New York</h4>
+                                  <img class="img-responsive img-centered" src="img/portfolio/stage4.jpg" alt=""><br><br>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close </button>
                             </div>
                         </div>
