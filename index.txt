@@ -463,8 +463,10 @@
                                 <img class="img-responsive img-centered" src="img/portfolio/stn1.png" alt="">
                                 <img class="img-responsive img-centered" src="img/portfolio/stn2.png" alt="">
                                 <img class="img-responsive img-centered" src="img/portfolio/stn3.png" alt="">
+                                <p>Featured in Playcrafting's Winter Play: NYC Game Expo 2017</p>
+                                <img class="img-responsive img-centered" src="img/portfolio/game_expo.jpg" alt=""><br><br> 
                                 <p>Shoot That Note is designed to help music learners with better and faster sight-reading ability.  Download it NOW on the App Store or visit <a href="http://www.yuppyfun.com" target="_blank">www.yuppyfun.com</a> for more information.</p>
-                                <p><center><a href="https://appsto.re/us/CTTe9.i" target="_blank"><img src="img/portfolio/App_Store_Badge.svg" width="135" height="40"></a></center></p>
+                                <p><center><a href="https://appsto.re/us/CTTe9.i" target="_blank"><img src="img/portfolio/App_Store_Badge.svg" width="135" height="40"></a></center></p>                               
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close </button>
                             </div>
                         </div>
@@ -525,6 +527,8 @@
                                 <!-- Project Details Go Here -->
                                 <h2>Graphic Design</h2>
                                 <p class="item-intro text-muted">Artworks created for TAANY</p>
+                                <h4>Cover design for TAANY 2017 Yearbook</h4>
+                                <img class="img-responsive img-centered" src="img/portfolio/TAANY_2017_Yearbook.png" alt=""><br><br>
                                 <h4>Poster design for BBQ & Wine-Tasting Tour</h4>
                                 <img class="img-responsive img-centered" src="img/portfolio/bbq_wine.png" alt=""><br><br>
                                 <h4>Poster design for a Meet & Greet of a Taiwanese baseball hitter</h4>
