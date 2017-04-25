@@ -354,7 +354,7 @@
     <footer>
         <div class="container">
              <center>
-               <span class="copyright">Copyright &copy; Ying-Ying Chen 2016</span>
+               <span class="copyright">Copyright &copy; Ying-Ying Chen 2017</span>
              </center>
         </div>
     </footer>
