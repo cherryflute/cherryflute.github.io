@@ -419,6 +419,23 @@
                         <div class="col-lg-8 col-lg-offset-2">
                             <div class="modal-body">
                                 <h2>Credentials</h2>
+
+                                 <div class="col-md-6 col-sm-8 portfolio-item">
+                                  <div class="portfolio-hover">
+                                   <div class="portfolio-hover-content">
+                                   </div>
+                                  </div>
+                                     <img src="img/portfolio/student2.jpg" class="img-responsive">
+                                 </div>
+
+                                 <div class="col-md-6 col-sm-8 portfolio-item">
+                                  <div class="portfolio-hover">
+                                   <div class="portfolio-hover-content">
+                                   </div>
+                                  </div>
+                                     <img src="img/portfolio/student1.jpg" class="img-responsive">
+                                 </div>
+
                                 <p class="item-intro text-muted">Teaching Achievements</p>
                                   <h4>Student Testimonials</h4>
                                      <p class="large text-muted">Thank you for all your patience and kindness teaching me.  Every time I go to piano lessons now, I have a lot more fun than I used to, and enjoy the music a lot more now.
@@ -429,10 +446,12 @@
                                      <br>~Wendy C~</p>
                                      <p class="large text-muted">Ms. Ying-Ying Chen is my most favorite teacher because she has a great amount of patience, a wide scope of knowledge in expressing and describing music, and a great sense of enthusiasm in teaching and supporting her students.
                                      <br>~Nicole C~</p><br><br>
-                                  <h4>Musical Arrangements</h4>
+                                  <h4>Musical Arrangements Made for Students and/or Various Performances</h4>
                                     <img class="img-responsive img-centered" src="img/portfolio/scores.jpg" alt=""><br><br>
                                   <h4>Students Achievements</h4>
+                                     <p class="large text-muted">Associated Board of the Royal School of Music(ABRSM) Examanations</p>
                                     <img class="img-responsive img-centered" src="img/portfolio/abrsm.jpg" alt="">
+                                     <p class="large text-muted">New York State School Music Association(NSMMA) Evaluation</p>
                                     <img class="img-responsive img-centered" src="img/portfolio/nyssma.jpg" alt=""><br><br>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close </button>
                             </div>
