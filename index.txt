@@ -131,8 +131,8 @@
                         <img src="img/portfolio/stn.png" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Shoot That Note</h4>
-                        <p class="text-muted">Educational Music App</p>
+                        <h4>Game Design</h4>
+                        <p class="text-muted">Concept, Narrative, Music & Sound Mix</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
@@ -479,6 +479,7 @@
                                 <!-- Project Details Go Here -->
                                 <h2>Shoot That Note</h2>
                                 <p class="item-intro text-muted">by YYFun LLC</p>
+                                <p class="item-intro text-muted">Music & Game by Ying-Ying Chen</p>
                                 <img class="img-responsive img-centered" src="img/portfolio/stn1.png" alt="">
                                 <img class="img-responsive img-centered" src="img/portfolio/stn2.png" alt="">
                                 <img class="img-responsive img-centered" src="img/portfolio/stn3.png" alt="">
@@ -486,6 +487,11 @@
                                 <img class="img-responsive img-centered" src="img/portfolio/game_expo.jpg" alt=""><br><br> 
                                 <p>Shoot That Note is designed to help music learners with better and faster sight-reading ability.  Download it NOW on the App Store or visit <a href="http://www.yuppyfun.com" target="_blank">www.yuppyfun.com</a> for more information.</p>
                                 <p><center><a href="https://appsto.re/us/CTTe9.i" target="_blank"><img src="img/portfolio/App_Store_Badge.svg" width="135" height="40"></a></center></p>                               
+                                <h2>Ghost Off!</h2>
+                                <p class="item-intro text-muted">Global Game Jam 2017 @ NYC</p>
+                                <p class="item-intro text-muted">Concept, Narrative, Music & Sound Mix by Ying-Ying Chen</p>
+                                <img class="img-responsive img-centered" src="img/portfolio/ghost_off.jpg" alt="">
+                                <p>Repository link: <a href="https://github.com/cindyxu/ghost-off" target="_blank">https://github.com/cindyxu/ghost-off</a></p>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close </button>
                             </div>
                         </div>
@@ -590,6 +596,10 @@
                                 <!-- Project Details Go Here -->
                                 <h2>Editing</h2>
                                 <p class="item-intro text-muted">Event programs/booklet for TAANY</p>
+
+                                <h4>test video</h4>                                
+                                <img class="img-responsive img-centered" src="img/portfolio/P2TW2016_Commercial.mov" alt=""><br><br>
+
                                 <h4>47th Annual TAANY Banquet program</h4>                                
                                 <img class="img-responsive img-centered" src="img/portfolio/taany_banquet_program.jpg" alt=""><br><br>
                                 <h4>228 Commemoration program</h4>
