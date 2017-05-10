@@ -597,7 +597,7 @@
                                 <h2>Editing</h2>
                                 <p class="item-intro text-muted">Video Projects</p>
                                 <h4>Passport to Taiwan 2016 Promotion Video</h4> 
-                                <iframe width="560" height="315" src="https://www.youtube.com/embed/vLHQkwCjsqc" frameborder="0" allowfullscreen></iframe><br><br>               
+                                <iframe width="50%" height="50%" src="https://www.youtube.com/embed/vLHQkwCjsqc" frameborder="0" allowfullscreen></iframe><br><br>               
                                 <h4>Passport to Taiwan 2016 Promotion Video with Voice-Over</h4>
                                 <iframe width="560" height="315" src="https://www.youtube.com/embed/ClhBw-No4kw" frameborder="0" allowfullscreen></iframe><br><br>
                                 <h4>Voice for Passport to Taiwan 2017 Promotion Video</h4>
